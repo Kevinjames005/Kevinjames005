@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate coder from India, eager to learn and grow in both frontend and backend development.</h3>
-<img  width ="800" alt="Coding with peace" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Coding with Peace" width="400">
+</p>
 
 - 🌱 I’m currently learning **Python , Web Development**
 
