@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , Python , Web Development**
 
-- 💬 Ask me about **C , Java , Python and Web Development**
+- 💬 Ask me about **Python , C , Java  and Web Development**
 
 - 📫 How to reach me **jesmjamind11@gmail.com**
 
