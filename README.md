@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Coding with Peace" width="400">
 </p>
 
-- 🌱 I’m currently learning **Python , Web Development**
+- 🌱 I’m currently learning **Machine Learning , Python , Web Development**
 
 - 💬 Ask me about **C , Java , Python and Web Development**
 
